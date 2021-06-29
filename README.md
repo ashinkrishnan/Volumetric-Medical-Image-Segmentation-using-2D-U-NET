@@ -5,3 +5,5 @@ The process is divided into 3 steps
 ### 1.Data preprocessing
 ### 2.Building the 2D U-NET model
 ### 3.Predicting the mask using user provided dataset
+
+![](img.png)
